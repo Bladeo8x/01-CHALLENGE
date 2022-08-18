@@ -61,6 +61,7 @@ a:hover {
 /* ADDED MAIN AS A GENERAL CONTAINER FOR THE MAIN ARTICLES OF WEBSITE */
 
 main {
+    height: 100%;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
